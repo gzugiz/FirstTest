@@ -6,8 +6,8 @@
 // store info about the experiment session:
 let expName = 'Test3';  // from the Builder filename that created this script
 let expInfo = {
-    'Nő_vagy_Férfi_vagy': '?',
-    'Életkorod': '?',
+    'Nő_v_Férfi_vagy?': '',
+    'Életkorod': '',
 };
 
 // Start code blocks for 'Before Experiment'
@@ -637,3 +637,4 @@ async function quitPsychoJS(message, isCompleted) {
   
   return Scheduler.Event.QUIT;
 }
+
